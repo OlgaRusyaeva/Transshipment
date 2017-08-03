@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "transshipments():main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "dpNon.getInitialState()">
+            </PersistentString>
+            <PersistentString
+               value = "ntp.getUpperBound()">
+            </PersistentString>
+            <PersistentString
+               value = "dtpNon.getInitialState()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ADP_Simulator::getTransshipmentCost(iProblem&amp;, int const&amp;, State&amp;, int const&amp;, std::vector&lt;boost::shared_ptr&lt;iDistribution&gt;, std::allocator&lt;boost::shared_ptr&lt;iDistribution&gt; &gt; &gt; const&amp;, Actions&amp;):ADP_Simulator.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "DRA_Solver::getExpectedProfit(int const&amp;, Cost const&amp;, int const&amp;, int const&amp;, State const&amp;, Demand&amp;, std::vector&lt;boost::shared_ptr&lt;iDistribution&gt;, std::allocator&lt;boost::shared_ptr&lt;iDistribution&gt; &gt; &gt; const&amp;):DRA_Solver.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "DPLeadTimeTransshipment_Simulator::getTransshipmentCost(iProblem&amp;, int const&amp;, State&amp;, int const&amp;, std::vector&lt;boost::shared_ptr&lt;iDistribution&gt;, std::allocator&lt;boost::shared_ptr&lt;iDistribution&gt; &gt; &gt; const&amp;, Actions&amp;):DPLeadTimeTransshipment_Simulator.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "HF-&gt;hash_value(newState)">
+            </PersistentString>
+            <PersistentString
+               value = "VF-&gt;getValueFunction(currentPeriod+1, HF-&gt;hash_value(newState));">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "NoTransshipment_Solver::getUpperBound() const:NoTransshipment_Solver.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "PiecewiseApp_ValueFunction::updateSlopeCave(int const&amp;, int const&amp;, float const&amp;, float const&amp;, int const&amp;, int const&amp;, int const&amp;, int const&amp;):PiecewiseApp_ValueFunction.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "getSlopeRow(t,loc)[0]">
+            </PersistentString>
+            <PersistentString
+               value = "(1-alpha)*getSlopeRow(t,loc)[1]+alpha*gradientMinus">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DeterministicRollingHorizon_Solver::getInitialState() const:DeterministicRollingHorizon_Solver.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "DeterministicRollingHorizon_Solver::getInitialState():DeterministicRollingHorizon_Solver.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "LP_optimizer::optimize(State const&amp;, Cost const&amp;, boost::shared_ptr&lt;PLValueFunction&gt; const&amp;, int const&amp;, LeadTimes const&amp;, int const&amp;, bool const&amp;):LP_optimizer.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "solution.getShadowPriceNumber()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DiscreteDistribution::sample():DiscreteDistribution.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "PiecewiseApp_ValueFunction::getIndexVector(int const&amp;) const:PiecewiseApp_ValueFunction.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "DRA_Simulator::timeToTransship(iProblem&amp;, int const&amp;, State const&amp;, int const&amp;):DRA_Simulator.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "SimulatorOneTransshipment::generateDemand(int const&amp;, int const&amp;, std::vector&lt;std::vector&lt;int, std::allocator&lt;int&gt; &gt;, std::allocator&lt;std::vector&lt;int, std::allocator&lt;int&gt; &gt; &gt; &gt;&amp;, int const&amp;, int const&amp;, std::vector&lt;boost::shared_ptr&lt;iDistribution&gt;, std::allocator&lt;boost::shared_ptr&lt;iDistribution&gt; &gt; &gt; const&amp;):SimulatorOneTransshipment.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "PiecewiseApp_ValueFunction::updateSlopeSpar(int const&amp;, int const&amp;, float const&amp;, float const&amp;, int const&amp;, int const&amp;):PiecewiseApp_ValueFunction.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PiecewiseApp_ValueFunction::updateSlopeLeveling(int const&amp;, int const&amp;, float const&amp;, float const&amp;, int const&amp;, int const&amp;):PiecewiseApp_ValueFunction.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "NoTransshipment_Solver::setUpperBound(Cost const&amp;):NoTransshipment_Solver.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Simulator::timeToTransship(iProblem&amp;, int const&amp;, State const&amp;, int const&amp;):Simulator.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "BasisFunctionApproximation_Solver::getExpectedProfitNextPeriodsWithoutTransshipments(int const&amp;, int const&amp;, State const&amp;):BasisFunctionApproximation_Solver.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "NoTransshipment_Solver::initializePiecewiseValueFunction(int const&amp;, int const&amp;):NoTransshipment_Solver.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "DeterministicLeadTimeTransshipment_Simulator::initializeOrders(std::vector&lt;boost::shared_ptr&lt;State&gt;, std::allocator&lt;boost::shared_ptr&lt;State&gt; &gt; &gt; const&amp;):DeterministicLeadTimeTransshipment_Simulator.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "NoTransshipment_Solver::solve(iProblem&amp;):NoTransshipment_Solver.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "*i">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DeterministicRollingHorizon_Solver::solve(iProblem&amp;, int&amp;):DeterministicRollingHorizon_Solver.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "LP_optimizer::getTrueShadowPrices(LP_solution&amp;, int const&amp;, int const&amp;, LeadTimes const&amp;):LP_optimizer.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "DeterministicRollingHorizon_Simulator::getInitialState(int const&amp;) const:DeterministicRollingHorizon_Simulator.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "LP_optimizer::getShadowPricesAsDualVariables(LP_solution&amp;):LP_optimizer.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "QP_optimizer::optimize(std::vector&lt;boost::shared_ptr&lt;BasisFunction&gt;, std::allocator&lt;boost::shared_ptr&lt;BasisFunction&gt; &gt; &gt; const&amp;, int const&amp;, std::vector&lt;float, std::allocator&lt;float&gt; &gt; const&amp;):QP_optimizer.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "LP_optimizer::getBasicVariables(std::vector&lt;int, std::allocator&lt;int&gt; &gt;&amp;):LP_optimizer.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "DMDH_Simulator::getExpectedProfitNextPeriodWithTransshipment(iProblem&amp;, int const&amp;, State const&amp;, int const&amp;, std::vector&lt;boost::shared_ptr&lt;iDistribution&gt;, std::allocator&lt;boost::shared_ptr&lt;iDistribution&gt; &gt; &gt; const&amp;):DMDH_Simulator.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "ADPLeadTimeTransshipment_Solver::getApproximationSinglePeriodUpdate(int const&amp;, int const&amp;, Cost const&amp;, Demand&amp;, int const&amp;, LeadTimes const&amp;):ADPLeadTimeTransshipment_Solver.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "PiecewiseApp_ValueFunction::findUpdateIntervalLeft(float&amp;, int const&amp;, int&amp;, std::vector&lt;float, std::allocator&lt;float&gt; &gt; const&amp;):PiecewiseApp_ValueFunction.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "DPMultipleTransshipments_Solver::getMaxProfit(int const&amp;, int const&amp;, State const&amp;, Demand&amp;, Cost const&amp;, std::vector&lt;boost::shared_ptr&lt;iDistribution&gt;, std::allocator&lt;boost::shared_ptr&lt;iDistribution&gt; &gt; &gt; const&amp;, LeadTimes const&amp;) const:DPMultipleTransshipments_Solver.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "ADP_Solver::getMaxGradient(arrays::Array3D&lt;float&gt;&amp;, int const&amp;, int const&amp;, int const&amp;, int const&amp;):ADP_Solver.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Simulator_Post::simulator(int const&amp;, int const&amp;, State const&amp;, Cost const&amp;, Demand&amp;, Profit&amp;, int const&amp;):Simulator_Post.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "NoTransshipment_Solver::constructValueFunctionForRestPeriods(int const&amp;, int const&amp;, int const&amp;, Cost const&amp;, State const&amp;, std::vector&lt;boost::shared_ptr&lt;iDistribution&gt;, std::allocator&lt;boost::shared_ptr&lt;iDistribution&gt; &gt; &gt; const&amp;):NoTransshipment_Solver.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "void std::__destroy_aux&lt;PiecewiseLinearFunctionSet*&gt;(PiecewiseLinearFunctionSet*, PiecewiseLinearFunctionSet*, std::__false_type):stl_construct.h">
+      </ContextState>
+      <ContextState
+         contextName = "arrays::Array2D&lt;PiecewiseLinearFunction&gt;::~Array2D():array.h">
+      </ContextState>
+      <ContextState
+         contextName = "ADPOnline_Simulator::getInitialState(iProblem&amp;, int const&amp;):ADPOnline_Simulator.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "DeterministicLeadTimeTransshipment_Solver::getDeterministicSolution(int const&amp;, int const&amp;, State&amp;, Cost const&amp;, Demand&amp;, int const&amp;, LeadTimes const&amp;):DeterministicLeadTimeTransshipment_Solver.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "(t-tau-1)*location*location+i*location+j">
+            </PersistentString>
+            <PersistentString
+               value = "(int)distribution[i]-&gt;sample()">
+            </PersistentString>
+            <PersistentString
+               value = "cost.getTransshipmentCost()[j]*cost.getDistance(j,i)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ADPLeadTimeTransshipment_Solver::getApproximationMultiPeriodUpdate(int const&amp;, int const&amp;, Cost const&amp;, Demand&amp;, int const&amp;, LeadTimes const&amp;):ADPLeadTimeTransshipment_Solver.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "profitWhatIfOneLess[i]">
+            </PersistentString>
+            <PersistentString
+               value = "decisions.getShadowPricePlus(i)">
+            </PersistentString>
+            <PersistentString
+               value = "gradientPlus(t,i,0)">
+            </PersistentString>
+            <PersistentString
+               value = "profitWhatIfOneMore[i]+decisions.getShadowPricePlus(i)">
+            </PersistentString>
+            <PersistentString
+               value = "gradientMinus(t,i,1)">
+            </PersistentString>
+            <PersistentString
+               value = "gradientPlus(t,i,1)">
+            </PersistentString>
+            <PersistentString
+               value = "decisions.getShadowPricePlus(location+i*(maxLeadTime)+(l-1))">
+            </PersistentString>
+            <PersistentString
+               value = "profitWhatIfOneLess[i]+decisions.getShadowPriceMinus(i)">
+            </PersistentString>
+            <PersistentString
+               value = "gradientMinus(t,i,0)">
+            </PersistentString>
+            <PersistentString
+               value = "decisions.getShadowPriceMinus(location+i*(maxLeadTime)+(l-1))">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "problemMethods::getCost(std::vector&lt;float, std::allocator&lt;float&gt; &gt; const&amp;, State const&amp;):ProblemMethods.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "NoTransshipment_Solver::initializeLastPeriodValueFunction(int const&amp;, int, std::vector&lt;int, std::allocator&lt;int&gt; &gt; const&amp;, Cost const&amp;, std::vector&lt;boost::shared_ptr&lt;iDistribution&gt;, std::allocator&lt;boost::shared_ptr&lt;iDistribution&gt; &gt; &gt; const&amp;):NoTransshipment_Solver.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "myopicMethods::expectedValuePositivePart(1,distribution[i],(j+1))">
+            </PersistentString>
+            <PersistentString
+               value = "distribution[i]-&gt;mean()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "randomIntNumber::randomIntNumber(int const&amp;, int const&amp;, int const&amp;):randomNumber.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "ADP_Solver::solve(iProblem&amp;, int const&amp;):ADP_Solver.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "PiecewiseLinearFunction::getBreakpoints() const:PiecewiseLinearFunction.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "ClosLocationLeadTime_Simulator::getTransshipmentCost(iProblem&amp;, int const&amp;, State&amp;, int const&amp;, Actions&amp;):ClosLocationLeadTime_Simulator.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "problemMethods::getNewState(State&amp;, Demand const&amp;):ProblemMethods.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "ADP_Solver::getMinGradient(arrays::Array3D&lt;float&gt;&amp;, int const&amp;, int const&amp;, int const&amp;):ADP_Solver.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "gradients(t+s,i,l)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Test::checkConcaveUpdate():test.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "DRA_Solver::solve(iProblem&amp;):DRA_Solver.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "ADPOneTransshipment_Simulator::getExpectedProfitNextPeriodsWithTransshipments(int const&amp;, Cost const&amp;, Demand&amp;, int const&amp;, State const&amp;, int const&amp;, std::vector&lt;boost::shared_ptr&lt;iDistribution&gt;, std::allocator&lt;boost::shared_ptr&lt;iDistribution&gt; &gt; &gt; const&amp;):ADPOneTransshipment_Simulator.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Cost::getHoldingCost() const:Cost.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "ADP_Solver::getApproximationSinglePeriodUpdate(int const&amp;, int const&amp;, State&amp;, Cost const&amp;, Demand&amp;, int const&amp;, LeadTimes const&amp;):ADP_Solver.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "PLValueFunction::insert(PiecewiseLinearFunction&amp;, int const&amp;, int&amp;, int&amp;):PLValueFunction.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "PLValueFunction::PLValueFunction(int, int, int):PLValueFunction.h">
+      </ContextState>
+      <ContextState
+         contextName = "PLValueFunction::updateSlopeLeveling(int const&amp;, int const&amp;, int const&amp;, float const&amp;, float const&amp;, int const&amp;, int const&amp;):PLValueFunction.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "DeterministicRollingHorizon_Simulator::getTransshipmentCost(iProblem&amp;, int const&amp;, State&amp;, int const&amp;, std::vector&lt;boost::shared_ptr&lt;iDistribution&gt;, std::allocator&lt;boost::shared_ptr&lt;iDistribution&gt; &gt; &gt; const&amp;, Actions&amp;):DeterministicRollingHorizon_Simulator.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "DRA_Simulator::getExpectedProfitNextPeriodsWithTransshipments(iProblem&amp;, int const&amp;, State const&amp;, int const&amp;, std::vector&lt;boost::shared_ptr&lt;iDistribution&gt;, std::allocator&lt;boost::shared_ptr&lt;iDistribution&gt; &gt; &gt; const&amp;):DRA_Simulator.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "PLValueFunction::updateSlopeSpar(int const&amp;, int const&amp;, int const&amp;, float const&amp;, float const&amp;, int const&amp;, int const&amp;):PLValueFunction.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "set[leadTime]-&gt;get(t,loc).getSlopes()">
+            </PersistentString>
+            <PersistentString
+               value = "set[leadTime]-&gt;get(t,loc).getBreakpoints()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PiecewiseApp_ValueFunction::getIndexVectorElement(int const&amp;, int const&amp;) const:PiecewiseApp_ValueFunction.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "BasisFunction::BasisFunction(State const&amp;):BasisFunction.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "log10(3)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "OneTransshipment_Simulator::getTransshipmentCost(iProblem&amp;, int const&amp;, State&amp;, int const&amp;, std::vector&lt;boost::shared_ptr&lt;iDistribution&gt;, std::allocator&lt;boost::shared_ptr&lt;iDistribution&gt; &gt; &gt; const&amp;, Actions&amp;):OneTransshipment_Simulator.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "StochasticRollingHorizon_Simulator::getTransshipmentCost(iProblem&amp;, int const&amp;, State&amp;, int const&amp;, std::vector&lt;boost::shared_ptr&lt;iDistribution&gt;, std::allocator&lt;boost::shared_ptr&lt;iDistribution&gt; &gt; &gt; const&amp;, Actions&amp;):StochasticRollingHorizon_Simulator.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "sampleSize*location*(2*horizonLength)+sampleSize-1">
+            </PersistentString>
+            <PersistentString
+               value = "(t+1)*location*sampleSize+w*location+j">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Simulator::timeToTransship(iProblem&amp;, int const&amp;, State const&amp;, int const&amp;, std::vector&lt;boost::shared_ptr&lt;iDistribution&gt;, std::allocator&lt;boost::shared_ptr&lt;iDistribution&gt; &gt; &gt; const&amp;):Simulator.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "DeterministicLeadTimeTransshipment_Simulator::getTransshipmentCost(iProblem&amp;, int const&amp;, State&amp;, int const&amp;, std::vector&lt;boost::shared_ptr&lt;iDistribution&gt;, std::allocator&lt;boost::shared_ptr&lt;iDistribution&gt; &gt; &gt; const&amp;, Actions&amp;):DeterministicLeadTimeTransshipment_Simulator.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Graph::getTransshipmentNodes(std::map&lt;int, int, std::less&lt;int&gt;, std::allocator&lt;std::pair&lt;int const, int&gt; &gt; &gt;&amp;, int const&amp;):Graph.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "sourcesV+t*sourcesV+i">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PiecewiseLinearFunction::getOptimalBreakpoint(float const&amp;) const:PiecewiseLinearFunction.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "breakpoints">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "OneTransshipment_Simulator::getExpectedProfitNextPeriodsWithoutTransshipments(iProblem&amp;, int const&amp;, State const&amp;, std::vector&lt;boost::shared_ptr&lt;iDistribution&gt;, std::allocator&lt;boost::shared_ptr&lt;iDistribution&gt; &gt; &gt; const&amp;):OneTransshipment_Simulator.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "PLValueFunction::get(int const&amp;, int const&amp;, int const&amp;):PLValueFunction.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "main:main.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "PiecewiseLinearFunctionSet::~PiecewiseLinearFunctionSet():PiecewiseLinearFunctionSet.h">
+      </ContextState>
+      <ContextState
+         contextName = "Simulator::simulate(iProblem&amp;, Profit&amp;, bool const&amp;):Simulator.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Graph::initializeGraph(LeadTimes const&amp;):Graph.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "sourcesV*(tau+1)+j">
+            </PersistentString>
+            <PersistentString
+               value = "(repeat+1)*sourcesV">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ADP_Solver::getApproximation(int const&amp;, int const&amp;, State&amp;, Cost const&amp;, Demand&amp;, int const&amp;):ADP_Solver.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Deterministic_Solver::getDeterministicSolution(int const&amp;, int const&amp;, State&amp;, Cost const&amp;, Demand&amp;, int const&amp;, LeadTimes const&amp;):Deterministic_Solver.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "DPLeadTimeTransshipment_Solver::getExpectedProfit(int const&amp;, int const&amp;, State const&amp;, Demand&amp;, Cost const&amp;, std::vector&lt;boost::shared_ptr&lt;iDistribution&gt;, std::allocator&lt;boost::shared_ptr&lt;iDistribution&gt; &gt; &gt; const&amp;, LeadTimes const&amp;) const:DPLeadTimeTransshipment_Solver.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Graph::getInvAdjacentVerteces(int const&amp;):Graph.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "sourcesV+t*sourcesV+i">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Input::Input(int, std::string const&amp;, std::string const&amp;, std::string const&amp;, std::string const&amp;, std::string const&amp;, std::string const&amp;, std::string const&amp;, std::string const&amp;):Input.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "ADPLeadTimeTransshipment_Solver::solveAsSinglePeriod(iProblem&amp;, int const&amp;):ADPLeadTimeTransshipment_Solver.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "PLValueFunction::update(PiecewiseLinearFunction&amp;, float const&amp;, float const&amp;, int const&amp;, int const&amp;, int const&amp;, float const&amp;):PLValueFunction.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "pl.getSlope(i)">
+            </PersistentString>
+            <PersistentString
+               value = "(1-alpha)*pl.getSlope(i)+alpha*new_slopePlus">
+            </PersistentString>
+            <PersistentString
+               value = "(1-alpha)*pl.getSlope(i)+alpha*new_slopeMinus">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "problemMethods::getNewState(State&amp;):ProblemMethods.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "PLValueFunction::insert(PiecewiseLinearFunction&amp;, int const&amp;, int&amp;):PLValueFunction.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "PLValueFunction::updateSlopeCave(int const&amp;, int const&amp;, int const&amp;, float const&amp;, float const&amp;, int const&amp;, int const&amp;, int const&amp;, int const&amp;):PLValueFunction.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "set[leadTime]-&gt;get(t,loc).getSlope(j)">
+            </PersistentString>
+            <PersistentString
+               value = "(1-alpha)*set[leadTime]-&gt;get(t,loc).getSlope(j-1)+alpha*gradientPlus">
+            </PersistentString>
+            <PersistentString
+               value = "(1-alpha)*set[leadTime]-&gt;get(t,loc).getSlope(j+1)+alpha*gradientMinus">
+            </PersistentString>
+            <PersistentString
+               value = "set[leadTime]-&gt;get(t,loc).getIndex()">
+            </PersistentString>
+            <PersistentString
+               value = "(j-1&gt;=0)">
+            </PersistentString>
+            <PersistentString
+               value = "(1-alpha)*set[leadTime]-&gt;get(t,loc).getSlope(j)+alpha*gradientMinus">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LP_optimizer::optimize(State const&amp;, Cost const&amp;, boost::shared_ptr&lt;PLValueFunction&gt; const&amp;, int const&amp;, LeadTimes const&amp;):LP_optimizer.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "PiecewiseApp_ValueFunction::findUpdateIntervalRight(float&amp;, int const&amp;, int&amp;, std::vector&lt;float, std::allocator&lt;float&gt; &gt; const&amp;, int const&amp;):PiecewiseApp_ValueFunction.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "BasisFunctionApproximation_Simulator::getExpectedProfitNextPeriodsWithTransshipments(int const&amp;, State const&amp;):BasisFunctionApproximation_Simulator.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "OPOS_Simulator::getTransshipmentCost(iProblem&amp;, int const&amp;, State&amp;, int const&amp;, std::vector&lt;boost::shared_ptr&lt;iDistribution&gt;, std::allocator&lt;boost::shared_ptr&lt;iDistribution&gt; &gt; &gt; const&amp;, Actions&amp;):OPOS_Simulator.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "signDerivative(problem,distribution, i,j,currentState.getElement(i), currentState.getElement(j))">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ADP_Solver::initializePiecewiseApp_ValueFunction(int const&amp;, int const&amp;):ADP_Solver.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "BasisFunctionApproximation_Solver::solve(iProblem&amp;):BasisFunctionApproximation_Solver.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "StochasticRollingHorizon_Solver::solve(iProblem&amp;, int&amp;, int const&amp;):StochasticRollingHorizon_Solver.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "sampleSize*location*(2*horizonLength+1)+sampleSize-1">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "BasisFunctionApproximation_Simulator::timeToTransship(iProblem&amp;, int const&amp;, State const&amp;, int const&amp;):BasisFunctionApproximation_Simulator.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "LP_optimizer::getTrueShadowPrices(LP_solution&amp;):LP_optimizer.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "LP_optimizer::leastCostFlowAugmentingPath(bool const&amp;, Graph&amp;):LP_optimizer.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "g.getCapacity(edge_id1)">
+            </PersistentString>
+            <PersistentString
+               value = "g.getFlow(edge_id1)">
+            </PersistentString>
+            <PersistentString
+               value = "g.getWeight(edge_id1)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SimulatorReplenishmentAndTransshipments::simulate(iProblem&amp;, Profit&amp;):SimulatorReplenishmentAndTransshipments.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "NoTransshipment_Solver::constructValueFunctionForRestPeriods(int const&amp;, int const&amp;, Cost const&amp;, State const&amp;, std::vector&lt;boost::shared_ptr&lt;iDistribution&gt;, std::allocator&lt;boost::shared_ptr&lt;iDistribution&gt; &gt; &gt; const&amp;):NoTransshipment_Solver.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Graph::initializeGraph():Graph.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "sourcesV*(tau+1)+j">
+            </PersistentString>
+            <PersistentString
+               value = "sourcesV*(tau+1)+i">
+            </PersistentString>
+            <PersistentString
+               value = "(repeat+1)*sourcesV">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Simulator::getExpectedProfitNextPeriod(iProblem&amp;, int const&amp;, State const&amp;, int const&amp;, std::vector&lt;boost::shared_ptr&lt;iDistribution&gt;, std::allocator&lt;boost::shared_ptr&lt;iDistribution&gt; &gt; &gt; const&amp;):Simulator.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "getExpectedProfitNextPeriodsWithoutTransshipments(problem,currentPeriod,stateAfterActions,distribution)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ADP_Solver::updateSlope(int const&amp;, int const&amp;, float const&amp;, float const&amp;, int const&amp;, int const&amp;, int const&amp;):ADP_Solver.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "(row_t)v">
+            </PersistentString>
+            <PersistentString
+               value = "(row_t)(null)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "void std::_Destroy&lt;PiecewiseLinearFunctionSet&gt;(PiecewiseLinearFunctionSet*):stl_construct.h">
+      </ContextState>
+      <ContextState
+         contextName = "Graph::getAdjacentVerteces(int const&amp;):Graph.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "sourcesV+t*sourcesV+i">
+            </PersistentString>
+            <PersistentString
+               value = "i*repeat+t">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ADP_Solver::getMaxGradient(arrays::Array3D&lt;float&gt;&amp;, int const&amp;, int const&amp;, int const&amp;):ADP_Solver.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "gradients(t+s,i,l)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PiecewiseLinearFunction::setSlope(int const&amp;, float const&amp;):PiecewiseLinearFunction.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "PLValueFunction::nearestBreakpoint(PiecewiseLinearFunction const&amp;, int const&amp;):PLValueFunction.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "PiecewiseApp_ValueFunction::setSlopeElement(int const&amp;, int const&amp;, int const&amp;, float const&amp;):PiecewiseApp_ValueFunction.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "NoTransshipment_Solver::constructAppValueFunctionForRestPeriods(int const&amp;, int const&amp;, int const&amp;, Cost const&amp;, State const&amp;, Demand&amp;, int const&amp;):NoTransshipment_Solver.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "PVF-&gt;getSlopeElement(t,i,PVF-&gt;getBreakpointIndexClosestToElement(t,i,state.getElement(i)-1))">
+            </PersistentString>
+            <PersistentString
+               value = "PVF-&gt;getBreakpointIndexClosestToElement(t,i,state.getElement(i))">
+            </PersistentString>
+            <PersistentString
+               value = "PVF-&gt;getSlopeElement(t,i,PVF-&gt;getBreakpointIndexClosestToElement(t,i,state.getElement(i)))">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ADP_Solver::getApproximationMultiPeriodUpdate(int const&amp;, int const&amp;, State&amp;, Cost const&amp;, Demand&amp;, int const&amp;, LeadTimes const&amp;):ADP_Solver.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "gradientMinus(0,1,0)">
+            </PersistentString>
+            <PersistentString
+               value = "gradientPlus(9,1,0)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ADPLeadTimeTransshipment_Solver::initializeLastPeriodApproximation(int const&amp;, Cost const&amp;, std::vector&lt;boost::shared_ptr&lt;iDistribution&gt;, std::allocator&lt;boost::shared_ptr&lt;iDistribution&gt; &gt; &gt; const&amp;):ADPLeadTimeTransshipment_Solver.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "DRA_Solver::getExpectedProfitWithCurrentTransshipment(Cost const&amp;, int const&amp;, State const&amp;) const:DRA_Solver.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Graph::getEdge(int const&amp;, int const&amp;, int const&amp;) const:Graph.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "std::vector&lt;PiecewiseLinearFunctionSet, std::allocator&lt;PiecewiseLinearFunctionSet&gt; &gt;::~vector():stl_vector.h">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
